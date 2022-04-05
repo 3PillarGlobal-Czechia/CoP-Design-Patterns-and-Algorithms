@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cop_strategy_pattern", "cop_strategy_pattern\cop_strategy_pattern.csproj", "{889C0D0A-7272-4167-BEE9-1E109B0E8B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{889C0D0A-7272-4167-BEE9-1E109B0E8B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889C0D0A-7272-4167-BEE9-1E109B0E8B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889C0D0A-7272-4167-BEE9-1E109B0E8B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889C0D0A-7272-4167-BEE9-1E109B0E8B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D31345F-3276-4334-B3DA-04AEFB11311F}
+	EndGlobalSection
+EndGlobal
