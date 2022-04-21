@@ -16,4 +16,4 @@ Here are a couple of simple rules.
 
 ## Contact 
 
-Feel free to contact @plesnik.jakub if you have any questions.
+Feel free to contact @PlesnikJakub if you have any questions.
